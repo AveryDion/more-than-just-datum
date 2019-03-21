@@ -27,3 +27,15 @@ html {
 table {
   min-width: 725px;
 }
+
+input {
+  min-width: 375px;
+}
+
+@media only screen and (min-width: 60em) {
+
+  table {
+    min-width: 900px;
+  }
+
+}
